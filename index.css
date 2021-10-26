@@ -1,0 +1,47 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0 50px;
+}
+h2{
+    padding: 10px 0;
+
+}
+.intro_skill {
+    display: flex;
+}
+#skill {
+    padding-left: 20px;
+}
+
+h4{
+    padding-left: 10px;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: skyblue;
+}
+h5{
+    padding-left: 20px;
+    margin: 0;
+}
+p{
+    padding-left: 20px;
+    margin: 0px;
+}
+table {
+    width: 100%;
+    border: 2px solid black;
+    border-spacing: 0;
+    
+}
+td,th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px 0;
+}
+h1 {
+    text-align: center;
+}
